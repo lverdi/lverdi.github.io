@@ -6,6 +6,7 @@
 }
 .mainBody a{
     text-decoration: none;
+    color:red;
 }
 .bigButton{
     width:1000px;
